@@ -6,7 +6,7 @@
             alt="CodeWolf" />
     </p>
     <p>
-        <strong>CodeWolf</strong> is a Competitive Programming Competition being organized by <strong> Coding Club
+        <strong>CodeWolf</strong> is a Competitive Programming Competition being organized by <strong>Competitive Coding Club
             RSCOE</strong> to create programming enthusiasm among students.
     </p>
     <p>
