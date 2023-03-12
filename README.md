@@ -1,6 +1,6 @@
 
 # CodeWolf
-<p align="center">
+<p align="center" style="width:200px">
   <img src="https://github.com/competitive-code/CodeWolf-2-0/blob/main/codewolf.jpeg" alt="CodeWolf"/>
 </p>
 
