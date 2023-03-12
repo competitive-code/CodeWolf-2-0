@@ -18,10 +18,10 @@
     <h2 align="center">Contests</h2>
     <div align="center">
         <h3>CodeWolf 1.0</h3>
-        <a href="https://www.hackerrank.com/0-hour-round-1" target="_blank">Round 1: Zero Hour</a> <br>
-        <a href="https://www.hackerrank.com/lone-wolf-round-2-1" target="_blank">Round 2: Lone Wolf</a>
+        <a href="https://www.hackerrank.com/0-hour-round-1">Round 1: Zero Hour</a> <br>
+        <a href="https://www.hackerrank.com/lone-wolf-round-2-1">Round 2: Lone Wolf</a>
     </div>
     <div align="center">
         <h3>CodeWolf 2.0</h3>
-        <a href="https://www.hackerrank.com/codewolf-2-0" target="_blank">Contest Link</a>
+        <a href="https://www.hackerrank.com/codewolf-2-0">Contest Link</a>
     </div>
