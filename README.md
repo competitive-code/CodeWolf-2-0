@@ -1,7 +1,7 @@
 
 # CodeWolf
 <p align="center">
-  <img src="https://github.com/competitive-code/CodeWolf-2-0/blob/main/codewolf.jpeg raw=true" alt="CodeWolf"/>
+  <img src="https://github.com/competitive-code/CodeWolf-2-0/blob/main/codewolf.jpeg" alt="CodeWolf"/>
 </p>
 
 **CodeWolf** is a Competitive Programming Competition being organized by **Competitive Coding Club RSCOE** to create programming enthusiasm among students.
